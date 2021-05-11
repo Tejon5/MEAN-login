@@ -4,7 +4,7 @@
 <p>Para esta Prueba Tecnica se utilizaron el Stack de tecnologias de MEAN.</p>
 
 
-<h5>Backend<h5>
+<h5>Backend</h5>
 Desde el Back se puede operar con una base de datos local para levantar el servidor, esta configurado con MongoDB, Express, y Nodejs.
 En el mismo se ha configurado con JWT (Json Web Token) la autenticacion del usuario para ingresar a la pagina, para que, siendo el Email y la contraseña del mismo correcta pueda acceder a las secciones de la pagina donde le corresponden.En caso de no ser alguno de sus datos correctos, no podra acceder al sitio.
 
