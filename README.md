@@ -10,9 +10,9 @@
 las secciones de la pagina donde le corresponden.En caso de no ser alguno de sus datos correctos, no podra acceder al sitio.</p>
 
 <h5>Frontend</h5>
-<p>Para la seccion del Frontend se elaboro con Angular</p>
-<p>Existen dos formas de acceder al mismo, con un SIGNIN y SIGNOUT, una vez accediendo al sitio se podra tener acceso a las private-tasks, no hay forma de no acceder sin validar los campos de ingreso</p>
-<p>Además, se podra hacer un LOGOUT desde el sitio el cual eliminara el Token de validacion que se genera al entrar en al pagina</p>
+Para la seccion del Frontend se elaboro con Angular
+Existen dos formas de acceder al mismo, con un SIGNIN y SIGNOUT, una vez accediendo al sitio se podra tener acceso a las private-tasks, no hay forma de no acceder sin validar los campos de ingreso
+>Además, se podra hacer un LOGOUT desde el sitio el cual eliminara el Token de validacion que se genera al entrar en al pagina
 
 
 <h5>Levantar la app</h5>
