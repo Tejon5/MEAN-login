@@ -13,3 +13,10 @@ las secciones de la pagina donde le corresponden.En caso de no ser alguno de sus
 <p>Para la seccion del Frontend se elaboro con Angular</p>
 <p>Existen dos formas de acceder al mismo, con un SIGNIN y SIGNOUT, una vez accediendo al sitio se podra tener acceso a las private-tasks, no hay forma de no acceder sin validar los campos de ingreso</p>
 <p>Además, se podra hacer un LOGOUT desde el sitio el cual eliminara el Token de validacion que se genera al entrar en al pagina</p>
+
+
+<h5>Levantar la app</h5>
+Para iniciar la app tener instalado de manera local base de datos de MONGODB.
+En una terminal escribir mongod.
+Abrir otra terminal y parado en la carpeta backend introducir npm i, y una vez finalizado npm start
+Abrir una terminal mas para el front, y en la carpeta frontend, teniendo instalado la version global de Angular, introducir npm i, y luego ng serve. Abrir en el browser localhost:4200
